@@ -1,4 +1,5 @@
 🚀 Employee Attrition Analytics: Predictive Modeling & Optimization
+
 📌 Project Overview
 This project focuses on predicting employee attrition using the IBM HR Analytics dataset. By leveraging advanced Machine Learning techniques, I developed a pipeline to identify high-risk employees, enabling data-driven retention strategies.
 
